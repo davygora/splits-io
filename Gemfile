@@ -53,7 +53,7 @@ gem 'administrate'
 
 # api
 gem 'active_model_serializers'
-gem 'api-pagination', '= 4.7'
+gem 'api-pagination', '4.8.1'
 gem 'jbuilder'
 
 # authentication
